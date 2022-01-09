@@ -1,6 +1,6 @@
 # Project_Classification
 
-Abstract : 
+Abstract :  </br>
 The issue Network intrusion detection is an important and sensitive issue when it comes to the privacy of organizations and individuals, especially when transmitting important and sensitive information. </br>
 
 Data Description: </br>
