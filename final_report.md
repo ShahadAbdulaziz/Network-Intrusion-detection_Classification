@@ -1,20 +1,20 @@
 
-# introduction : 
+### introduction : 
 
 The issue Network intrusion detection 
 is an important and sensitive issue when it comes to the privacy of organizations and individuals
 especially when transmitting important and sensitive information.
 
-# Design : 
+### Design : 
 
 
-# Data : 
+### Data : 
 
 
-Algorithms : 
+### Algorithms : 
 
 
 
-Tools : 
+### Tools : 
 Numpy, Pandas, Matplotlib, Seaborn
 
